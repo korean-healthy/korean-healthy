@@ -5,7 +5,8 @@
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "webpack-dev-server"
+    "dev": "webpack-dev-server",
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
@@ -43,6 +44,7 @@
   },
   "dependencies": {
     "babel-polyfill": "^6.23.0",
+    "luminous-ui": "^1.0.0",
     "mdi": "^1.8.36",
     "vue": "^2.2.1"
   }
