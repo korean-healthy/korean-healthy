@@ -1,6 +1,6 @@
 <template>
 	<main>
-		<lumi-navbar color="dark-blue">
+		<lumi-navbar color="orange">
 			<lumi-navbar-link href="/" slot="title" no-effect>
 				<img :src="require('../images/korean-healthy.svg')" style="width: 48px; height: 48px; padding: 8px;">
 			</lumi-navbar-link>

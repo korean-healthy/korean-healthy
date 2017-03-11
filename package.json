@@ -44,7 +44,7 @@
   },
   "dependencies": {
     "babel-polyfill": "^6.23.0",
-    "luminous-ui": "^1.0.0",
+    "luminous-ui": "^1.0.4",
     "mdi": "^1.8.36",
     "vue": "^2.2.1"
   }
